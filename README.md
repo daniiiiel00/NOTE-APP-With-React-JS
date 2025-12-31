@@ -8,7 +8,7 @@ This project demonstrates strong React fundamentals using hooks, responsive layo
 ---
 
 <p align="center">
-  <img src="img.png" width="800" />
+  <img src="note-App-With-React/img.png" width="800" />
 </p>
 
 <!-- ## ✨ Live Preview
