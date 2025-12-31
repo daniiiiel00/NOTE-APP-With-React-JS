@@ -8,7 +8,7 @@ This project demonstrates strong React fundamentals using hooks, responsive layo
 ---
 
 <p align="center">
-  <img src="note-App-With-React/img.png" width="800" />
+  <img src="img.png" width="800" />
 </p>
 
 <!-- ## ✨ Live Preview
@@ -90,11 +90,11 @@ node -v
 npm -v
 ```
 
-## 2️⃣ Create React App (Vite Recommended)
+## 2️⃣ Create React App (Vite)
 
 ```bash
-npm create vite@latest react-notes-app
-cd react-notes-app
+npm create vite@latest note-App-With-React
+cd note-App-With-React
 npm install
 ```
 
