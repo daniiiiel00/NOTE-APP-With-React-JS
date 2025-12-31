@@ -140,11 +140,11 @@ http://localhost:5173
 
 ## 🧪 Best Practices Used
 
-✔️ Functional components
-✔️ Clean state management
-✔️ Reusable UI components
-✔️ Responsive design
-✔️ Accessibility-friendly layout
+- ✔️ Functional components
+- ✔️ Clean state management
+- ✔️ Reusable UI components
+- ✔️ Responsive design
+- ✔️ Accessibility-friendly layout
 
 ## 📜 License
 
