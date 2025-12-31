@@ -57,11 +57,6 @@ This project demonstrates strong React fundamentals using hooks, responsive layo
 note-app-With-React/
 │
 ├── src/
-│ ├── components/
-│ │ ├── NoteCard.jsx
-│ │ ├── NoteForm.jsx
-│ │ ├── SearchBar.jsx
-│ │ └── EmptyState.jsx
 │ │
 │ ├── App.jsx
 │ ├── main.jsx
